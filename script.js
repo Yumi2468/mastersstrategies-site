@@ -124,7 +124,10 @@
       "footer.desc": "臥龍戰略營銷管理有限公司，立足澳門，放眼大灣區，為您提供全方位的戰略營銷解決方案。",
       "footer.quick": "快速導覽",
       "footer.contact": "聯絡資訊",
-      "footer.copy": "© 2026 臥龍戰略營銷管理有限公司. 版權所有."
+      "footer.copy": "© 2026 臥龍戰略營銷管理有限公司. 版權所有.",
+      "services.more": "查看完整服務說明",
+      "contact.pageLink": "查看聯絡頁與合作流程",
+      "footer.aiyouth": "AIYOUTH 澳門區總代理"
     },
     en: {
       "nav.brand": "臥龍",
@@ -247,7 +250,10 @@
       "footer.desc": "Masters Strategy Marketing Management Limited — based in Macau, serving the Greater Bay Area with comprehensive strategic marketing solutions.",
       "footer.quick": "Quick Links",
       "footer.contact": "Contact",
-      "footer.copy": "© 2026 Masters Strategy Marketing Management Limited. All rights reserved."
+      "footer.copy": "© 2026 Masters Strategy Marketing Management Limited. All rights reserved.",
+      "services.more": "View full services",
+      "contact.pageLink": "Contact page and how we work",
+      "footer.aiyouth": "AIYOUTH Macau Agency"
     }
   };
 
